@@ -1,6 +1,3 @@
-title: Vide.me needs your colloboration
-layout: post
-
 ## Collaboration
 
 Hey.
