@@ -8,3 +8,6 @@ https://demo.sergeykozlov.ru/geo_chart/
 
 Source
 https://github.com/SergeyKozlov/geo_chart
+
+
+![Screenshot 2023-03-21 at 13-51-22 Vide me](https://user-images.githubusercontent.com/1781376/226595930-de538afc-256d-487a-83c6-48beb91c6c9e.png)
