@@ -91,8 +91,9 @@ Given the time difference, please let me know the time of your call. It is prefe
 - [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
+
 __Smiryagina street, Novomichurinsk, Ryazan, Russia__
 
 ### [Download my Resume](/sergei_kozlov_resume.pdf)
-### [Examples](/examples/)
+### [Examples of my programming skills](/examples/)
 ### [Collaboration](/collaboration/)
