@@ -1,20 +1,26 @@
 # Full Stack Web developer
-## SUMMARY
+## Markdown
 
-Hello my name is Sergey Kozlov. I am a Full Stack Web developer with 12+ years of professional experience. Skilled with PHP, JavaScript, and SQL and demonstrates a strong ability to create and develop complex media projects.
-I am up to date on all implementations of PHP, JavaScript and Shell programming languages. I have rich experience in using Docker, SQL, DNS, CDN and cloud technologies.
+Hello my name is Sergey Kozlov. I am a Full Stack Web developer, with over 12 years of computer programming experience.
 
-Programming is my passion.
-I love complex tasks, because for me it is an opportunity to gain new knowledge and new experience. I use creative solutions to solve every problem. 
-Also in my work I use perseverance. In my practice, there were tasks about which they write on the Internet that there are no solutions to these problems. But I never backed down. I was looking for a solution for 2-3 weeks for 8-10 hours a day. And at the end of a difficult journey, I always find a solution.
+I created my own project **[Vide.me](https://vide.me)** alone, which consists of 1,000,000 lines of code written by me personally.
 
-### Markdown
-
-In my current role as a Full Stack Web developer at [Vide.me](https://vide.me), I have been able to successfully overcome challenges such as:
+In my current role as a Full Stack Web developer at **Vide.me**, I have been able to successfully overcome challenges such as:
 - Third-party Frameworks showed low efficiency, insufficient for the hardware we used, so I wrote my own Framework, which turned out to be 10% more efficient than others.
 - There was no ready-made solution in the world for pipeline processing and uploading video to CDN, and I created my own solution that performs all my tasks.
 - Using off-the-shelf cluster solutions (Kubernetes) is expensive and to save money I have set up Docker Swarm failover clusters in the US and Europe, saving myself over $2200 a year.
 - In the past, my publicists created content and left forever, so in order to keep them, I created a service that collects geo-data of page visits and turns them into beautiful geo-charts, emails them to authors. This way I retain users 20% more effectively.
+
+I am up to date on all implementations of PHP, JavaScript and Shell programming languages. I have rich experience in using Docker, SQL, DNS, CDN and cloud technologies.
+
+Programming is my passion.
+
+I love complex tasks, because for me it is an opportunity to gain new knowledge and new experience. I use creative solutions to solve every problem. 
+Also in my work I use perseverance. In my practice, there were tasks about which they write on the Internet that there are no solutions to these problems. But I never backed down. I was looking for a solution for 2-3 weeks for 8-10 hours a day. And at the end of a difficult journey, I always find a solution.
+
+## SUMMARY
+
+Full Stack Web developer with 12+ years of professional experience. Skilled with PHP, JavaScript, and SQL and demonstrates a strong ability to create and develop complex media projects.
 
 ## RELEVANT CAREER OBJECTIVE
 PHP developer / Software Engineer
