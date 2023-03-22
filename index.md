@@ -15,7 +15,6 @@ In my current role as a Full Stack Web developer at [Vide.me](https://vide.me), 
 - There was no ready-made solution in the world for pipeline processing and uploading video to CDN, and I created my own solution that performs all my tasks.
 - Using off-the-shelf cluster solutions (Kubernetes) is expensive and to save money I have set up Docker Swarm failover clusters in the US and Europe, saving myself over $2200 a year.
 - In the past, my publicists created content and left forever, so in order to keep them, I created a service that collects geo-data of page visits and turns them into beautiful geo-charts, emails them to authors. This way I retain users 20% more effectively.
-```markdown
 
 ## RELEVANT CAREER OBJECTIVE
 PHP developer / Software Engineer
@@ -41,23 +40,23 @@ PHP developer / Software Engineer
 
 ## DEVELOPER SKILLS
 
-    • HTML / CSS
-    • Ubuntu / Windows Server
-    • Docker (Swarm / Compose / Maintenance / Life Cycle of Containers / Data Management)
-    • SQL PostgreSQL MySQL MS SQL (Full Text Search / Replication / Backup) 
-    • NoSQL (Redis / DynamoDB / Couchbase)
-    • CDN AWS / Cloudflare
-    • Let's Encrypt
-    • Virtualization (KVM / LXC / Proxmox / VirtualBox)
-    • IDEs PhpStorm / IntelliJ IDEA / Visual Studio
-    • Servers administration
-    • PHPUnit
-    • Video Converting / Encoding
-    • Linux bash / shell
-    • Cloud AWS / Rackspace
-    • Web servers Nginx / Apache
-    • JSON / YAML / XML
-    • Git (GitHub / GitLab)
+- HTML / CSS
+- Ubuntu / Windows Server
+- Docker (Swarm / Compose / Maintenance / Life Cycle of Containers / Data Management)
+- SQL PostgreSQL MySQL MS SQL (Full Text Search / Replication / Backup) 
+- NoSQL (Redis / DynamoDB / Couchbase)
+- CDN AWS / Cloudflare
+- Let's Encrypt
+- Virtualization (KVM / LXC / Proxmox / VirtualBox)
+- IDEs PhpStorm / IntelliJ IDEA / Visual Studio
+- Servers administration
+- PHPUnit
+- Video Converting / Encoding
+- Linux bash / shell
+- Cloud AWS / Rackspace
+- Web servers Nginx / Apache
+- JSON / YAML / XML
+- Git (GitHub / GitLab)
 
 ## SOFT SKILLS
 - I have the ability to learn and teach.
@@ -66,9 +65,12 @@ PHP developer / Software Engineer
 - I can work in a team.
 
 ## EDUCATION
+```
 Associate’s degree in Computer Sciences 
 College of Electronics, Ryazan
-Graduated in 2006 (diploma with distinction) Specialization: computer and network technician
+Graduated in 2006 (diploma with distinction) 
+Specialization: computer and network technician
+```
 
 ## LANGUAGE SKILLS
 - English – (В1)
@@ -79,7 +81,7 @@ Graduated in 2006 (diploma with distinction) Specialization: computer and networ
 Over the past 2 years, trained as mentor 6 students as programmers for various industries. All students have success completed studies and got a diploma.
 
 ## CONTACT
-
+```
 Given the time difference, please let me know the time of your call. It is preferable to use to contact me: 
 Skype: sergeykozlov.ru 
 Whatsapp: +79109087360 
@@ -89,6 +91,7 @@ email: hello@sergeykozlov.ru.
 [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
 Smiryagina street, Novomichurinsk, Ryazan, Russia
+```
 
 ### [Examples](/examples/)
 ### [Collaboration](/collaboration/)
