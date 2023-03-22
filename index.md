@@ -71,12 +71,9 @@ PHP developer / Software Engineer
 - I can work in a team.
 
 ## EDUCATION
-Associate’s degree in Computer Sciences 
-
-College of Electronics, Ryazan
-
-Graduated in 2006 (diploma with distinction) 
-
+Associate’s degree in Computer Sciences  
+College of Electronics, Ryazan  
+Graduated in 2006 (diploma with distinction)  
 Specialization: computer and network technician
 
 ## LANGUAGE SKILLS
