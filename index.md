@@ -92,7 +92,7 @@ Over the past 3 years, trained as mentor 6 students as programmers for various i
 Given the time difference, please let me know the time of your call. It is preferable to use to contact me: 
 - Skype: sergeykozlov.ru 
 - Whatsapp: +79109087360 
-- email: hello@sergeykozlov.ru.
+- email: hello@sergeykozlov.ru
 - [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
 - [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
