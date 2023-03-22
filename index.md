@@ -1,7 +1,7 @@
 # Full Stack Web developer
 ## INTRODUCTION
 
-Hello my name is Sergey Kozlov. I am a Full Stack Web developer, with over 12 years of computer programming experience.
+Hello my name is Sergei Kozlov. I am a Full Stack Web developer, with over 12 years of computer programming experience.
 
 I created my own project **[Vide.me](https://vide.me)** alone, which consists of 1,000,000 lines of code written by me personally.
 
