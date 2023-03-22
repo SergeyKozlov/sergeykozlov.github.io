@@ -94,6 +94,6 @@ Given the time difference, please let me know the time of your call. It is prefe
 
 __Smiryagina street, Novomichurinsk, Ryazan, Russia__
 
-### [Download my Resume](/sergei_kozlov_resume.pdf)
+### [Download my Resume](https://sergeykozlov.ru/sergei_kozlov_resume.pdf)
 ### [Examples of my programming skills](/examples/)
 ### [Collaboration](/collaboration/)
