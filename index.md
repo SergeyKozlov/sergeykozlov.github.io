@@ -1,5 +1,5 @@
 # Full Stack Web developer
-## Markdown
+## INTRODUCTION
 
 Hello my name is Sergey Kozlov. I am a Full Stack Web developer, with over 12 years of computer programming experience.
 
@@ -85,7 +85,7 @@ Specialization: computer and network technician
 - Russian – (C2)
 
 ## VOLUNTEER EXPERIENCE
-Over the past 2 years, trained as mentor 6 students as programmers for various industries. All students have success completed studies and got a diploma.
+Over the past 3 years, trained as mentor 6 students as programmers for various industries. All students have success completed studies and got a diploma.
 
 ## CONTACT
 
@@ -97,8 +97,7 @@ Given the time difference, please let me know the time of your call. It is prefe
 - [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
-
-__Smiryagina street, Novomichurinsk, Ryazan, Russia__
+- Smiryagina street, Novomichurinsk, Ryazan, Russia
 
 ### [Download my Resume](https://sergeykozlov.ru/sergei_kozlov_resume.pdf)
 ### [Examples of my programming skills](/examples/)
