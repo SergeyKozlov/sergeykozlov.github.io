@@ -65,12 +65,13 @@ PHP developer / Software Engineer
 - I can work in a team.
 
 ## EDUCATION
-```
 Associate’s degree in Computer Sciences 
+
 College of Electronics, Ryazan
+
 Graduated in 2006 (diploma with distinction) 
+
 Specialization: computer and network technician
-```
 
 ## LANGUAGE SKILLS
 - English – (В1)
@@ -81,17 +82,17 @@ Specialization: computer and network technician
 Over the past 2 years, trained as mentor 6 students as programmers for various industries. All students have success completed studies and got a diploma.
 
 ## CONTACT
-```
-Given the time difference, please let me know the time of your call. It is preferable to use to contact me: 
-Skype: sergeykozlov.ru 
-Whatsapp: +79109087360 
-email: hello@sergeykozlov.ru.
-[https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
-[https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
-[https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
-[https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
-Smiryagina street, Novomichurinsk, Ryazan, Russia
-```
 
+Given the time difference, please let me know the time of your call. It is preferable to use to contact me: 
+- Skype: sergeykozlov.ru 
+- Whatsapp: +79109087360 
+- email: hello@sergeykozlov.ru.
+- [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
+- [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
+- [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
+- [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
+__Smiryagina street, Novomichurinsk, Ryazan, Russia__
+
+### [Download my Resume](/sergei_kozlov_resume.pdf)
 ### [Examples](/examples/)
 ### [Collaboration](/collaboration/)
