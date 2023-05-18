@@ -1,7 +1,7 @@
 # Full Stack Web developer
 ## INTRODUCTION
 
-Watch my unique video-introduction:
+Watch my video-introduction:
 [![Watch my unique video-introduction](https://static.videcdn.net/sergey_kozlov_vr18052023.jpg)](https://www.vide.me/v?m=4908deb17f23)
 
 Hello my name is Sergei Kozlov. I am a Full Stack Web developer, with over 12 years of computer programming experience.
