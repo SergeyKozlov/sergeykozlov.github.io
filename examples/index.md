@@ -20,4 +20,4 @@ Work example
 [https://demo2.sergeykozlov.ru/video_converter/](https://demo2.sergeykozlov.ru/video_converter/)
 
 Source
-([https://github.com/SergeyKozlov/geo_chart](https://github.com/SergeyKozlov/video_converter)) 
+([https://github.com/SergeyKozlov/video_converter](https://github.com/SergeyKozlov/video_converter)) 
