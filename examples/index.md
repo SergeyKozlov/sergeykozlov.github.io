@@ -17,7 +17,7 @@ Source
 Upload your video and converted for use.
 
 Work example
-[https://demo.sergeykozlov.ru/video_converter/](https://demo.sergeykozlov.ru/video_converter/)
+[https://demo2.sergeykozlov.ru/video_converter/](https://demo2.sergeykozlov.ru/video_converter/)
 
 Source
 ([https://github.com/SergeyKozlov/geo_chart](https://github.com/SergeyKozlov/video_converter)) 
