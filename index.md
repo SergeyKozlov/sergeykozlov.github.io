@@ -1,4 +1,3 @@
-# Full Stack Web developer
 ## SUMMARY
 
 System administrator with over 20 years of experience. Successfully manages the IT environment of a large company in the energy sector. Responsibly ensures the operation of Bare-metal servers and any complex cloud technologies, 4 Internet providers, 150+ users using dozens of corporate services. Is helping to grow the annual revenue of the corporation. Delivering 15% IT budget savings.
@@ -35,9 +34,9 @@ Language skills:  • English  • Czech  • Russian
 • Time management  • Communication  • Problem-solving  • Teamwork  • Attention to detail
 
 ## CERTIFICATIONS
-Verified International Academic Qualifications, #6038574IMM 		 	      *WES – 10/2023*
+Verified International Academic Qualifications, #6038574IMM 		 	      **WES – 10/2023**
 
-IELTS, #23TR506632KOZS002G  					          *British Council – 02/2024*
+IELTS, #23TR506632KOZS002G  					          **British Council – 02/2024**
 
 ## VOLUNTEER WORK
 Over the past 3 years, trained 7 student programmers for various industries as a mentor. All students successfully completed their studies and received diplomas.
