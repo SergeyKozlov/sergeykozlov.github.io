@@ -34,9 +34,11 @@ Language skills:  • English  • Czech  • Russian
 • Time management  • Communication  • Problem-solving  • Teamwork  • Attention to detail
 
 ## CERTIFICATIONS
-Verified International Academic Qualifications, #6038574IMM 		 	      **WES – 10/2023**
+Verified International Academic Qualifications, [#6038574IMM](https://badges.wes.org/Evidence?i=f47b9932-dcd6-4993-aa3d-d5ca1e8d8d2f&type=ca) 		 	      **WES – 10/2023**
+[Certificate WES](https://badges.wes.org/Evidence?i=f47b9932-dcd6-4993-aa3d-d5ca1e8d8d2f&type=ca)
 
-IELTS, #23TR506632KOZS002G  					          **British Council – 02/2024**
+IELTS,  [#23TR506632KOZS002G](https://sergeykozlov.ru/TR00223506632-10-02-2024-ETRF.pdf) 					          **British Council – 02/2024**
+[Certificate IELTS](https://sergeykozlov.ru/TR00223506632-10-02-2024-ETRF.pdf)
 
 ## VOLUNTEER WORK
 Over the past 3 years, trained 7 student programmers for various industries as a mentor. All students successfully completed their studies and received diplomas.
