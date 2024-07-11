@@ -7,11 +7,15 @@ An active and dedicated Network Administrator with 15 years of experience managi
 
 #### GEH TER LLC (branch) - Maintenance of large power plants  |  Novomichurinsk, Russia 
 
-    • Developed projects for the evolution of networks of 7 remote offices of the company by implementing new hybrid technologies Wi-Fi, VPN, WAN, LAN to increase network speed by 16 times and reduce the number of service denials.
-    • Established Network Attached Storage (NAS) using software customization and project management skills to achieve industrial reliability storage and integration with existing business applications of 9 TB of enterprise data by implementing 3 additional Geo-distributed file servers.
-    • Applied an innovative EDMS for 70 users, optimizing document workflows and reducing routine task completion time by 75%; this increased team productivity and was recognized by senior management for proactive initiative.
-    • Performed in-depth analysis to align existing infrastructure with PURDUE security models, resulting in a 83% reduction in potential security vulnerabilities.
-    • Designed, coordinated and managed the implementation of a CCTV (video surveillance) project using a private VPN connection to the Corporate Security department to install additional camera nodes.
+Developed projects for the evolution of networks of 7 remote offices of the company by implementing new hybrid technologies Wi-Fi, VPN, WAN, LAN to increase network speed by 16 times and reduce the number of service denials.
+
+Established Network Attached Storage (NAS) using software customization and project management skills to achieve industrial reliability storage and integration with existing business applications of 9 TB of enterprise data by implementing 3 additional Geo-distributed file servers.
+
+Applied an innovative EDMS for 70 users, optimizing document workflows and reducing routine task completion time by 75%; this increased team productivity and was recognized by senior management for proactive initiative.
+
+Performed in-depth analysis to align existing infrastructure with PURDUE security models, resulting in a 83% reduction in potential security vulnerabilities.
+
+Designed, coordinated and managed the implementation of a CCTV (video surveillance) project using a private VPN connection to the Corporate Security department to install additional camera nodes.
 
 ### System Administrator								Dec 2008 - Oct 2013
 
@@ -30,12 +34,10 @@ Language Skills:   • English – Fluent,   • Czech – Intermediate   • Ru
 
 ## TECHNOLOGICAL SKILLS
 
-• Linux Windows Servers  • Active Directory  • Information Security  • Exchange Server  
-• Networking  • Technical Support • Virtualization  • Hardware  • Cloud services  • Firewalls 
+• Linux Windows Servers  • Active Directory  • Information Security  • Exchange Server  • Networking  • Technical Support • Virtualization  • Hardware  • Cloud services  • Firewalls 
 
 ## SOFT SKILLS
-• Project management  • Problem-solving  • Communication  • Risk management  • Teamwork  
-• Determination  •  Mentoring
+• Project management  • Problem-solving  • Communication  • Risk management  • Teamwork  • Determination  •  Mentoring
 
 ## PROFESSIONAL DEVELOPMENT
 
