@@ -41,6 +41,12 @@ Language Skills:   • English – Fluent,   • Czech – Intermediate   • Ru
 
 ## PROFESSIONAL DEVELOPMENT
 
+[Network Defense](https://www.credly.com/badges/27f48644-532b-4bfc-98aa-2b4140fe7bed), course from Cisco     Jul 2024
+
+Implement network monitoring and security techniques, including access control, firewalls, cloud security and cryptography. Evaluation and responding to security alerts.
+
+Implemented robust security measures to protect networks against various cyber threats, reducing security incidents by 13% and minimizing downtime in the event of an exploit.
+
 [Endpoint Security](https://www.credly.com/badges/7177ed6a-04f3-4289-84e1-751e9706ebe5), course from Cisco     Jul 2024
 
 Application of concepts of network security, as well as operating systems and endpoint security.
