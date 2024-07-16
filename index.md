@@ -83,9 +83,8 @@ I am attaching a link to an employee review from my employer, but please note th
 ## CONTACT
 
 Given the time difference, please let me know the time of your call
-- Skype: sergeykozlov.ru 
-- Whatsapp: +79109087360 
 - email: hello@sergeykozlov.ru
+- Skype: sergeykozlov.ru
 - [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
 - [https://www.credly.com/users/sergei-kozlov](https://www.credly.com/users/sergei-kozlov)
 - [https://learn.microsoft.com/users/sergeykozlov](https://learn.microsoft.com/users/sergeykozlov)
