@@ -87,6 +87,7 @@ Given the time difference, please let me know the time of your call
 - Whatsapp: +79109087360 
 - email: hello@sergeykozlov.ru
 - [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
+- [https://www.credly.com/users/sergei-kozlov](https://www.credly.com/users/sergei-kozlov)
 - [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
