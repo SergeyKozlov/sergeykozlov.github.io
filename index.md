@@ -88,10 +88,10 @@ Given the time difference, please let me know the time of your call
 - email: hello@sergeykozlov.ru
 - [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
 - [https://www.credly.com/users/sergei-kozlov](https://www.credly.com/users/sergei-kozlov)
+- [https://learn.microsoft.com/users/sergeykozlov](https://learn.microsoft.com/users/sergeykozlov)
 - [https://stackoverflow.com/users/1895392/sergey-kozlov](https://stackoverflow.com/users/1895392/sergey-kozlov)
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
-- [https://learn.microsoft.com/users/sergeykozlov](https://learn.microsoft.com/users/sergeykozlov)
 
 ### [Download my Resume](https://sergeykozlov.ru/sergei_kozlov_resume.pdf)
 ### [Examples of my programming skills](/examples/)
