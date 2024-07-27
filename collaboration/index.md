@@ -11,4 +11,4 @@ The video message service Vide.me needs your colloboration.
 - Security
 - Advertising
 
-Send your email to mne@sergeykozlov.ru
+Send your message.
