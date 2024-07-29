@@ -92,6 +92,5 @@ Given the time difference, please let me know the time of your call
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
 
-### [Download my Resume](https://sergeykozlov.ru/sergei_kozlov_resume.pdf)
 ### [Examples of my programming skills](/examples/)
 ### [Collaboration](/collaboration/)
