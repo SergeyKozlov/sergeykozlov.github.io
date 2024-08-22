@@ -1,27 +1,6 @@
 ## SUMMARY
 
-An active and dedicated Network Administrator with 15 years of experience managing the IT environment of a large energy company using servers and complex cloud technologies, increases enterprise productivity by implementing 6+ enterprise services for hundreds of users. Skilled in project management, firewalls, hardware, and extensive experience across the entire IT project life cycle, implemented over 6 initiatives, resulting in 16x improvements in network performance. 
-
-## PROFESSIONAL EXPERIENCE
-### System Administrator								10/2013-present
-
-#### GEH TER LLC (branch) - Maintenance of large power plants  |  Novomichurinsk, Russia 
-
-Developed projects for the evolution of networks of 7 remote offices of the company by implementing new hybrid technologies Wi-Fi, VPN, WAN, LAN to increase network speed by 16 times and reduce the number of service denials.
-
-Established Network Attached Storage (NAS) using software customization and project management skills to achieve industrial reliability storage and integration with existing business applications of 9 TB of enterprise data by implementing 3 additional Geo-distributed file servers.
-
-Applied an innovative EDMS for 70 users, optimizing document workflows and reducing routine task completion time by 75%; this increased team productivity and was recognized by senior management for proactive initiative.
-
-Performed in-depth analysis to align existing infrastructure with PURDUE security models, resulting in a 83% reduction in potential security vulnerabilities.
-
-Designed, coordinated and managed the implementation of a CCTV (video surveillance) project using a private VPN connection to the Corporate Security department to install additional camera nodes.
-
-### System Administrator								Dec 2008 - Oct 2013
-
-#### TER-Novomicurinsk - Maintenance of large power plants  |  Novomichurinsk, Russia 
-
-Designed, managed and supported complex IT/OT environments including routing, switching, DNS, voice, wireless, security and load balancing platforms and technologies to ensure industrial performance and security.
+A certified and industrial Network Administrator with 15 years of experience managing the IT environment of a large energy company using servers and complex cloud technologies, increases company productivity by implementing 6+ enterprise services for hundreds of users. Skilled in project management, firewalls, hardware, and extensive experience across the entire IT project life cycle, implemented over 6 initiatives, resulting in a 16x improvements in network performance. 
 
 ## EDUCATION
 
@@ -75,10 +54,6 @@ Issued by Personnel training center in the energy sector  -  Moscow, Russia
 
 ## VOLUNTEER WORK
 Over the past 3 years, trained 7 student programmers for various industries as a mentor. All students successfully completed their studies and received diplomas.
-
-## EMPLOYEE REVIEW
-I am attaching a link to an employee review from my employer, but please note that my colleagues do not speak English:
-[employee review](https://sergeykozlov.ru/sergei_kozlov_employee_review.pdf)
 
 ## CONTACT
 
