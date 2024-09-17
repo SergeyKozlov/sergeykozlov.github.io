@@ -1,6 +1,6 @@
 ## SUMMARY
 
-An active and dedicated Network Administrator with 15 years of experience managing the IT environment of a large energy company using servers and complex cloud technologies, increases enterprise productivity by implementing 6+ enterprise services for hundreds of users. Skilled in project management, firewalls, hardware, and extensive experience across the entire IT project life cycle, implemented over 6 initiatives, resulting in 16x improvements in network performance. 
+Certified and industrial Network Administrator with 15 years of experience managing the IT environment of a large energy company using servers and complex cloud technologies, increases company productivity by implementing 6+ enterprise services for hundreds of users. Skilled in project management, firewalls, hardware, and extensive experience across the entire IT project life cycle, implemented over 6 initiatives, resulting in a 16x improvements in network performance. 
 
 ## PROFESSIONAL EXPERIENCE
 ### System Administrator								10/2013-present
