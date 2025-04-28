@@ -1,0 +1,115 @@
+CI/CD & Automation: Design, build, and maintain continuous integration and delivery (CI/CD) pipelines to streamline deployments.
+Infrastructure as Code (IaC): Develop and manage infrastructure using tools like Terraform, CloudFormation, or Pulumi.
+Cloud & Infrastructure Management: Deploy and manage cloud environments in AWS, Azure, or GCP, ensuring scalability, cost efficiency, and security.
+Monitoring & Logging: Implement and maintain monitoring, logging, and alerting solutions using tools like Prometheus, Grafana, Datadog, or Splunk.
+Security & Compliance: Enforce security best practices, conduct vulnerability assessments, and ensure compliance with industry standards.
+Collaboration: Work closely with software engineers, security teams, and IT operations to support development and production environments.
+Performance Optimization: Analyze system performance, troubleshoot bottlenecks, and optimize application and infrastructure performance.
+Incident Response & Reliability: Participate in on-call rotations, root cause analysis, and post-mortem reviews to improve system resilience.
+
+What you’ll bring to this role:
+
+Experience: 3+ years of experience in DevOps, Site Reliability Engineering (SRE), or cloud infrastructure roles.
+Cloud Platforms: Hands-on experience with AWS, Azure, or GCP services such as EC2, Lambda, RDS, Kubernetes, etc.
+Infrastructure as Code (IaC): Proficiency with Terraform, CloudFormation, or Pulumi.
+CI/CD Pipelines: Experience with GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD, or similar tools.
+Containerization & Orchestration: Hands-on experience with Docker and Kubernetes (EKS, AKS, or GKE).
+Scripting & Automation: Strong skills in scripting languages (Bash, Python, or Go) and automation frameworks.
+Monitoring & Observability: Experience with Prometheus, Grafana, New Relic, or similar tools.
+Security Best Practices: Knowledge of DevSecOps principles, secrets management, and cloud security.
+Version Control: Proficiency in Git and GitOps methodologies.
+Experience with service mesh (Istio, Linkerd, or Consul).
+Knowledge of serverless architectures (AWS Lambda, Azure Functions).
+Experience with HashiCorp Vault, AWS IAM, or other secrets management tools.
+Familiarity with IT compliance frameworks such as SOC 2, ISO 27001, or HIPAA.
+Experience with database administration (PostgreSQL, MySQL, MongoDB, or DynamoDB).
+
+----------------
+
+Key Responsibilities:
+Design, develop, and maintain CI/CD pipelines for automated building, testing, and deployment of web and mobile applications.
+Create and manage code repositories in Bitbucket, GitHub, and other version control systems, ensuring seamless integration with CI/CD pipelines.
+Implement tools and processes for code review, requiring passing checks before pull requests (PR) are merged, to maintain high code quality standards.
+Create and manage development, QA/testing, and production environments with a focus on infrastructure as code principles.
+Ensure the security of our digital infrastructure by implementing comprehensive security measures including VPNs, firewalls, Zero Trust architectures, and Identity and Access Management (IAM) systems.
+Manage internal IT security protocols for tools such as Microsoft Teams, email systems, and SharePoint to prevent security attacks, including email spoofing and other vulnerabilities.
+Implement and oversee robust monitoring systems for all deployed web and mobile applications to ensure optimal performance and uptime. Proactively address and resolve any downtime or performance issues.
+Monitor applications and infrastructure performance, responding proactively to potential issues and optimizing resource utilization to achieve cost-effective solutions.
+Collaborate with cross-functional teams to integrate development and operations smoothly, ensuring scalability and reliability of all systems.
+Stay updated with industry best practices and emerging technologies, and implement them within the infrastructure where beneficial.
+Provide technical guidance and education to team members and stakeholders regarding DevOps best practices.
+Qualifications:
+Bachelor’s degree in Computer Science, Engineering, or related field.
+Proven experience as a DevOps Engineer or similar software engineering role.
+Proficient with code versioning tools like Git, and CI/CD tools such as Jenkins, GitLab CI, or CircleCI.
+Experience with automation software (e.g., Puppet, Chef, Ansible) and scripting languages (e.g., Shell scripts, Python).
+Strong knowledge of cloud services (AWS, Azure, Google Cloud) and managing serverless architectures.
+Demonstrable knowledge of network and application security, network administration, and network storage integration.
+Expertise in managing Linux/Unix and Windows servers, virtual machines, and containers using technologies like Docker and Kubernetes.
+Excellent troubleshooting skills and the ability to remain calm and effective under pressure.
+Desirable Skills:
+Certifications in AWS, Azure, or GCP are highly regarded.
+Experience with monitoring tools such as Prometheus, Grafana, or ELK stack.
+Understanding of compliance requirements for data security and privacy.
+Knowledge of database management, both SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra).
+
+----------
+What You'll Do
+
+Provide in-depth software development expertise focusing on cloud architecture, design patterns, and programming
+Implement DevOps practices such as infrastructure as code, continuous integration, and automated deployment
+Develop, deploy, and manage CI/CD workflows, automating tasks across the full lifecycle to enhance developer experience and efficiency
+Construct, manage, and deploy infrastructure utilizing Ansible, Terraform, and Kubernetes
+Recommend architectural enhancements, design, and integration solutions, and establish methodologies and best practices
+Aim to minimize the risk of reliability-related failures, focusing on durability, availability, performance, and correctness
+Requirements
+
+3+ years of experience in DevOps roles, emphasizing tooling, automation, and development of distributed systems
+Extensive experience in designing, and programming applications within an AWS Cloud environment
+Proficiency in designing and implementing applications using Container and serverless technologies
+Hands-on experience with Ansible or Terraform
+Hands-on experience with docker orchestrations such as Kubernetes, openshift
+Expertise in configuration management platforms
+Experience in developing in Python
+Proficient in programming in Java, Scala, Go, or similar languages
+Experience with continuous integration tools (e.g., Jenkins, CircleCI, Codefresh)
+Familiarity with monitoring frameworks to track infrastructure and application health and performance
+Excellent skills in proposal writing, project estimation, presentation, and documentation
+Candidate must be in the AST, CST, or EST time zone
+We are looking for strong mentors with a proven record of making your team better
+------------
+Key Responsibilities and Job Duties:
+
+Design automated, containerized cloud application platform solutions with a focus on application concerns, including cloud-ready distributed application architectures, migrating workloads to containers, containerized development workflows, and integrating container platforms with automated CI/CD pipelines
+Provide mentoring to the developer community in the best practices associated with CI/CD deployments using Jenkins, Maven, and GIT
+Assist in the design, build, management and operation of the continuous delivery framework and tools, and act as a subject matter expert on CI/CD for developer teams
+Assist in the design, build, management, and operation of the infrastructure as a service layer (hosted and cloud-based platforms) that supports the different platform services
+Write and build continuous delivery pipelines to manage and automate the lifecycle of the different platform components
+Key Competencies and Experience:
+
+Candidates must have a Bachelor\'s Degree and 6 years of IT experience (or equivalent)
+Hands-on experience with Windows Virtual Machines
+Must have experience with Azure DevOps operations
+Hands-on experience with Open Shift platform (OCP) (Operator installs, Helm charts, Cluster installs, Jobs configuration, Monitoring)
+Comprehensive understanding of cloud delivery models: PaaS, SaaS, and IaaS
+Exposure to containerization, Docker, Kubernetes, and OCP
+Familiarity with continuous integration/deployment processes and tools such as IDEs (Eclipse), Source Code management (GIT/Stash), Jenkins, Maven, Nexus artifacts, etc.
+Hands-on experience in building modern web applications using Java, Spring, Spring Boot, Python, RDBMS systems (Oracle, MySQL, SQL Server), Tomcat
+Build automation, CI/CD and DevOps
+Experience with Docker as a developer
+Experience in cloud/virtual technologies and management - OpenStack, AWS, Azure, VMware, etc.
+Experience with building, deploying, and managing applications and software on PaaS
+Knowledge, skills, and abilities to manage container image repositories in support of Linux Containers
+Knowledge, skills, and abilities to deploy OpenShift Container Platform in both public and private cloud
+Knowledge, skills, and abilities to engineer and automate application deployment via CI/CD Pipelines using industry best practices and open-source software
+Knowledge, skills, and abilities to automate the creation of Platform as a Services (PaaS) infrastructure using industry standard tools such as Ansible and Chef
+
+------------
+
+
+
+
+
+
+
+
