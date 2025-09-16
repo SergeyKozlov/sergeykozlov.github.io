@@ -118,6 +118,20 @@
       debug:
         var: flink_job_map
 
+============================================================
 
+3. Если очень хочется ini-инвентарь в одной строке 😅
+
+Можно так:
+
+[test_flink]
+server1.localhost.ru flink_job="aaaa,bbbb,cccc"
+server2.localhost.ru flink_job="dddd,eeee,ffff"
+
+
+А потом в плейбуке превратить в список:
+
+- set_fact:
+    flink_job_list: "{{ flink_job.split(',') }}"
 
 
