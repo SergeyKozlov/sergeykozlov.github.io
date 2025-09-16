@@ -1,0 +1,72 @@
+Тогда вот компактный вариант в одной таске с чистым Jinja2:
+---
+- name: Build flink_job dictionary
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Collect flink_job -> host mapping
+      set_fact:
+        flink_job_map: >-
+          {{
+            dict(
+              groups['test_flink']
+              | map('extract', hostvars)
+              | map('community.general.dict_kv', 'flink_job', 'inventory_hostname')
+              | sum(start=[])
+            )
+          }}
+
+    - name: Show flink_job_map
+      debug:
+        var: flink_job_map
+
+
+
+---
+- name: Build flink_job dictionary
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Build dictionary of job -> host
+      set_fact:
+        flink_job_map: >-
+          {{
+            dict(
+              groups['test_flink']
+              | map('extract', hostvars)
+              | map('combine', [{'jobs': (item.flink_job | default([])) }])
+              | map('extract', 'inventory_hostname')
+              | list
+            )
+          }}
+      when: false
+
+
+---
+- name: Build flink_job dictionary
+  hosts: test_flink
+  gather_facts: false
+  tasks:
+    - name: Init empty dictionary on first host
+      set_fact:
+        flink_job_map: {}
+      run_once: true
+
+    - name: Add jobs from each host
+      set_fact:
+        flink_job_map: >-
+          {{
+            flink_job_map | combine(
+              dict(
+                (flink_job | default([])) | zip([inventory_hostname] * (flink_job | default([]) | length))
+              )
+            )
+          }}
+
+
+
+
+
+
+
+
