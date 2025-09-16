@@ -63,9 +63,60 @@
             )
           }}
 
+===============================================================
+---
+- name: Build flink_job dictionary
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Init empty dict
+      set_fact:
+        flink_job_map: {}
 
+    - name: Collect jobs from each host
+      set_fact:
+        flink_job_map: >-
+          {{
+            flink_job_map
+            | combine(
+                dict(
+                  hostvars[item].flink_job | default([]) 
+                  | zip([item] * (hostvars[item].flink_job | default([]) | length))
+                )
+              )
+          }}
+      loop: "{{ groups['test_flink'] }}"
 
+    - name: Show result
+      debug:
+        var: flink_job_map
 
+=========================================================
+---
+- name: Build flink_job dictionary
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Init empty dict
+      set_fact:
+        flink_job_map: {}
+
+    - name: Add jobs from each host in test_flink
+      set_fact:
+        flink_job_map: >-
+          {{
+            flink_job_map | combine(
+              dict(
+                (hostvars[item].flink_job | default([]))
+                | zip([item] * (hostvars[item].flink_job | default([]) | length))
+              )
+            )
+          }}
+      loop: "{{ groups['test_flink'] }}"
+
+    - name: Show result
+      debug:
+        var: flink_job_map
 
 
 
