@@ -134,4 +134,32 @@ server2.localhost.ru flink_job="dddd,eeee,ffff"
 - set_fact:
     flink_job_list: "{{ flink_job.split(',') }}"
 
+============================================================
+
+---
+- name: Build flink_job dictionary
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Init empty dict
+      set_fact:
+        flink_job_map: {}
+
+    - name: Collect jobs from each host
+      set_fact:
+        flink_job_map: >-
+          {{
+            flink_job_map
+            | combine(
+                dict(
+                  (hostvars[item].flink_job | default("") | split(","))
+                  | zip([item] * (hostvars[item].flink_job | default("") | split(",") | length))
+                )
+              )
+          }}
+      loop: "{{ groups['test_flink'] }}"
+
+    - name: Show result
+      debug:
+        var: flink_job_map
 
