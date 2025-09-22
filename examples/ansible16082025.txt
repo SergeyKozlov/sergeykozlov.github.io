@@ -163,3 +163,74 @@ server2.localhost.ru flink_job="dddd,eeee,ffff"
       debug:
         var: flink_job_map
 
+
+22092025 ============================================
+Причина избыточных проходов по хост-группе — это то, что `set_fact` внутри цикла `loop` перезаписывает `flink_job_map` на каждом шаге, а не накапливает значения. В результате Ansible выполняет `set_fact` для каждого хоста, и каждый раз пересоздает словарь, что приводит к множественным проходам и потенциальным конфликтам.
+
+### ✅ Правильный способ — использовать один `set_fact` с фильтрацией и агрегацией вне цикла:
+
+Вот исправленный вариант:
+
+```yaml
+- name: Init empty dict
+  set_fact:
+    flink_job_map: {}
+
+- name: Collect jobs from all hosts in one pass
+  set_fact:
+    flink_job_map: >-
+      {{
+        dict(
+          groups['test_flink']
+          | map('extract', hostvars)
+          | selectattr('flink_job', 'defined')
+          | map('combine', {
+              'jobs': (
+                hostvars[item].flink_job
+                | default("")
+                | regex_replace('[\\[\\]\\s]', '')  # удаляем скобки и пробелы
+                | split(',')
+              )
+            })
+          | map('community.general.dict_kv', attribute='jobs', value='inventory_hostname')
+          | list
+          | sum(start={})
+        )
+      }}
+```
+
+### Альтернатива попроще (если `flink_job` уже как список):
+
+Если переменная `flink_job` в `inventory` уже интерпретируется как список (а не как строка с квадратными скобками), можно упростить:
+
+```yaml
+- name: Collect jobs from all hosts
+  set_fact:
+    flink_job_map: >-
+      {{
+        dict(
+          groups['test_flink']
+          | selectattr('flink_job', 'defined')
+          | map('extract', hostvars)
+          | map('community.general.dict_kv', attribute='flink_job', value='inventory_hostname')
+          | list
+          | sum(start={})
+        )
+      }}
+```
+
+### Результат
+
+Вместо многократного `set_fact`, теперь все джобы собираются в один проход, и `flink_job_map` будет выглядеть так:
+
+```yaml
+flink_job_map:
+  aaaa: server1.localhost.ru
+  bbbb: server1.localhost.ru
+  cccc: server1.localhost.ru
+  dddd: server2.localhost.ru
+  eeee: server2.localhost.ru
+  ffff: server2.localhost.ru
+```
+
+Хочешь, я помогу адаптировать это под конкретную структуру твоего `inventory` или проверить, как интерпретируется `flink_job` в твоей среде?
