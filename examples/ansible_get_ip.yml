@@ -1,0 +1,25 @@
+---
+- name: Process hosts and resolve IP addresses
+  hosts: all
+  gather_facts: no
+  vars:
+    domain_prefix: ".example.com"  # Замените на вашу переменную
+    result_file: "result.txt"
+  tasks:
+    - name: Construct full hostname and resolve IP
+      block:
+        - name: Set current_full_host variable
+          set_fact:
+            current_full_host: "{{ inventory_hostname }}{{ domain_prefix }}"
+
+        - name: Resolve IP address for current_full_host
+          set_fact:
+            resolved_ip: "{{ lookup('dig', current_full_host) }}"
+
+        - name: Write to result file
+          lineinfile:
+            path: "{{ result_file }}"
+            line: "{{ current_full_host }} ansible_host={{ resolved_ip }}"
+            create: yes
+          delegate_to: localhost
+          run_once: false
