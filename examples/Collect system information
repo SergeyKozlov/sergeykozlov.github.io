@@ -1,0 +1,38 @@
+---
+- name: Collect system information
+  hosts: all
+  become: true
+  become_user: root
+  gather_facts: true
+
+  tasks:
+    - name: Collect CPU info
+      set_fact:
+        cpu_info: |
+          CPU Model: {{ ansible_processor[1] }}
+          CPU Cores: {{ ansible_processor_cores }}
+          CPU Threads: {{ ansible_processor_vcpus }}
+
+    - name: Collect Memory info
+      set_fact:
+        mem_info: |
+          Total Memory (MB): {{ ansible_memtotal_mb }}
+
+    - name: Collect Disk info
+      set_fact:
+        disk_info: |
+          {% for device, data in ansible_devices.items() %}
+          Disk: {{ device }}
+            Size: {{ data.size }}
+            Model: {{ data.model | default('N/A') }}
+          {% endfor %}
+
+    - name: Write system info to file
+      copy:
+        dest: /tmp/system_info.txt
+        content: |
+          Host: {{ inventory_hostname }}
+          ------------------------------
+          {{ cpu_info }}
+          {{ mem_info }}
+          {{ disk_info }}
