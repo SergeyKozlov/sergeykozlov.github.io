@@ -1,0 +1,73 @@
+Твоя роль промптинженер. Создай промпт для Luma AI (Dream Machine). В промпте должно быть:
+1. Придумайте одну идею для видеоролика, используя триггеры из лекции «Как придумать цепляющую идею для видео».
+2. Напишите сценарий для короткого видеоролика, опираясь на вашу идею.
+3. Снимите и смонтируйте ролик. За основу возьмите сценарий, который вы написали. 
+
+
+Проанализируй приложенный файл, в нем содержаться триггеры.
+Видеоролик должен быть коротким на 11-18 секунд. В видео ролике можно использовать нарисованного мультяшного персонажа, которые просто стоит в разных позах. Всего в видеоролике немного сцен, в соответсвии с постом по тексту ниже. Тематика видеоролика по статье о сохранении зрения при работе на компьютере: https://www.linkedin.com/pulse/%D1%85%D0%BE%D1%82%D0%B8%D1%82%D0%B5-%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C-%D1%8F%D1%81%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BD%D0%B0-%D0%BC%D0%B8%D1%80-%D1%82%D0%BE%D0%B3%D0%B4%D0%B0-%D0%BD%D0%B0%D1%87%D0%BD%D0%B8%D1%82%D0%B5-%D0%BE-%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D1%85-kozlov-neixe/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By5VcFSLwThC8cbDeXx0plQ%3D%3D
+
+====================================================
+
+Create a short animated video (11–18 seconds), social media style, vertical format (9:16).
+
+IDEA (hook using psychological triggers):
+Use fear + simplicity + relatability:
+People are silently losing their vision every day while working at a computer, but a very simple habit can prevent it.
+
+STYLE:
+Minimalistic cartoon character, clean design, soft colors, smooth transitions.
+Character is the same in all scenes, only poses change.
+
+SCENE 1 (Hook – fear + contradiction):
+A cartoon character sits at a computer, staring intensely at the screen.
+Text on screen:
+"You are losing your eyesight right now..."
+Pause for impact (1–2 seconds).
+Add subtle eye strain visual effect (blur or glow).
+
+SCENE 2 (Relatability):
+Zoom slightly closer.
+Character rubs eyes, looks tired.
+Text on screen:
+"8 hours at the screen = tired eyes"
+
+SCENE 3 (Solution – simplicity):
+Character changes pose, sits more relaxed.
+Soft lighting improves.
+Text on screen:
+"One simple habit can fix this"
+
+SCENE 4 (Action – demonstration):
+Character looks away from the screen toward a window (or distance).
+Text on screen:
+"Look away every 20 minutes"
+
+SCENE 5 (Result – positive future):
+Character now looks happy, relaxed, confident.
+Eyes look clear and healthy.
+Text on screen:
+"Clear vision. Less fatigue."
+
+SCENE 6 (Final CTA):
+Minimal background.
+Text centered on screen:
+"Take care of your eyes today"
+
+OPTIONAL small subtitle:
+"Based on real eye care recommendations"
+
+TRANSITIONS:
+Use soft fade-to-black between scenes.
+
+TIMING:
+Fast pacing, each scene ~2–3 seconds.
+
+MOOD:
+Helpful, slightly alarming at start, then reassuring and positive.
+
+QUALITY:
+smooth animation, stable frames, clean typography, no distortion, high clarity
+
+
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7442663179433897984/
