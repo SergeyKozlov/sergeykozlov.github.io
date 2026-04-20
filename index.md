@@ -86,7 +86,7 @@ AWS Knowledge: Architecting — Amazon Web Services (Aug 2024)
 
 AWS Knowledge: Cloud Essentials — Amazon Web Services (Jul 2024)
 
-Full certificate list: [Credly](https://www.credly.com/users/sergei-kozlov) | [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/) | [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
+[Full certificate list](/certifications/) .|. [Credly](https://www.credly.com/users/sergei-kozlov) .|. [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/) .|. [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
 
 ## CERTIFICATIONS
 
