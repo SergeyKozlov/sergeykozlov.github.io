@@ -59,6 +59,13 @@ Language Skills:   • English – Fluent,   • Czech – Intermediate   • Ru
 
 • Linux Windows Servers  • Active Directory  • Information Security  • Exchange Server  • Networking  • Technical Support • Virtualization  • Hardware  • Cloud services  • Firewalls 
 
+**Streaming & Data:** Apache Kafka, Apache Flink, ClickHouse, ZooKeeper, PostgreSQL
+**Platform & Containers:** Kubernetes, OpenShift, Docker, Istio
+**Observability:** Prometheus, Grafana, Zabbix, ELK Stack
+**Automation & CI/CD:** Jenkins, Groovy, Git, Ansible, GitHub Actions, AWS CodePipeline
+**Programming:** Python, Bash / Shell, JavaScript, PHP
+**Cloud & Infrastructure:** AWS, GCP, Linux, bare-metal and hybrid environments
+
 ## SOFT SKILLS
 • Project management  • Problem-solving  • Communication  • Risk management  • Teamwork  • Determination  •  Mentoring
 
@@ -86,9 +93,9 @@ AWS Knowledge: Architecting — Amazon Web Services (Aug 2024)
 
 AWS Knowledge: Cloud Essentials — Amazon Web Services (Jul 2024)
 
-### [Full certificate list](/certifications/)  [Credly](https://www.credly.com/users/sergei-kozlov)  [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/)  [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
+ [Full certificate list](/certifications/)   |   [Credly](https://www.credly.com/users/sergei-kozlov)   |   [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/)   |   [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
 
-## CERTIFICATIONS
+## ACADEMIC CREDENTIALS
 
 **International Academic Qualifications**, [Certificate WES #6038574IMM](https://badges.wes.org/Evidence?i=f47b9932-dcd6-4993-aa3d-d5ca1e8d8d2f&type=ca) 		 	      **Oct 2023**
 
@@ -113,7 +120,6 @@ I am attaching a link to an employee review from my employer, but please note th
 
 Given the time difference, please let me know the time of your call
 - email: hello@sergeykozlov.ru
-- Skype: sergeykozlov.ru
 - [https://www.linkedin.com/in/sergeykozlovru](https://www.linkedin.com/in/sergeykozlovru/?locale=en_US)
 - [https://www.credly.com/users/sergei-kozlov](https://www.credly.com/users/sergei-kozlov)
 - [https://learn.microsoft.com/users/sergeykozlov](https://learn.microsoft.com/users/sergeykozlov)
