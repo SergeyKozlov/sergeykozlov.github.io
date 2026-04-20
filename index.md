@@ -8,40 +8,41 @@ Certified and industrial DevOps / Data Engineer with 16 years of experience in b
 #### Sberbank
 
 Operate large-scale real-time data infrastructure in a banking environment with a strong focus on reliability, scalability, and observability.
-    • Work with Kafka, ZooKeeper, Apache Flink, and ClickHouse as part of a high-throughput production data platform. 
-    • Support streaming pipelines processing more than 8 million events per second for fraud analytics and related data workloads. 
-    • Run and support a high-availability ClickHouse cluster of 150 servers and 5 PB, integrated with the wider streaming platform. 
-    • Build and maintain CI/CD pipelines with Jenkins, Groovy, Git, and Ansible for release delivery and operational changes. 
-    • Use Prometheus, Grafana, and ELK to monitor cluster health, troubleshoot issues, and improve visibility across the platform. 
-    • Automate operational tasks with Python and Shell, reducing manual work and improving response time. 
-    • Administer a large OpenShift environment across two data centers, improving deployment workflows and platform visibility.
 
-    • Operate large-scale real-time data infrastructure in a banking environment with a strong focus on reliability, scalability, and observability. 
-    • Work with Kafka, ZooKeeper, Apache Flink, and ClickHouse as part of a high-throughput production data platform. 
-    • Support streaming pipelines processing more than 8 million events per second for fraud analytics and related data workloads. 
-    • Run and support a high-availability ClickHouse cluster of 150 servers and 5 PB, integrated with the wider streaming platform. 
-    • Build and maintain CI/CD pipelines with Jenkins, Groovy, Git, and Ansible for release delivery and operational changes. 
-    • Use Prometheus, Grafana, and ELK to monitor cluster health, troubleshoot issues, and improve visibility across the platform. 
-    • Automate operational tasks with Python and Shell, reducing manual work and improving response time. 
-    • Administer a large OpenShift environment across two data centers, improving deployment workflows and platform visibility.
+Work with Kafka, ZooKeeper, Apache Flink, and ClickHouse as part of a high-throughput production data platform. 
+
+Support streaming pipelines processing more than 8 million events per second for fraud analytics and related data workloads. 
+
+Run and support a high-availability ClickHouse cluster of 150 servers and 5 PB, integrated with the wider streaming platform. 
+
+Build and maintain CI/CD pipelines with Jenkins, Groovy, Git, and Ansible for release delivery and operational changes. 
+
+Use Prometheus, Grafana, and ELK to monitor cluster health, troubleshoot issues, and improve visibility across the platform. 
+
+Automate operational tasks with Python and Shell, reducing manual work and improving response time. 
+
+Administer a large OpenShift environment across two data centers, improving deployment workflows and platform visibility.
+
 
 ### System Administrator								Oct 2013 - Dec 2024
 
-#### GEH TER LLC (branch) - Maintenance of large power plants  |  Novomichurinsk, Russia 
+#### GEH TER (Energy Trading) 
+
+Supported enterprise integration and infrastructure platforms in a high-availability environment. 
+
+Worked with PostgreSQL and infrastructure monitoring tools to improve operational stability. 
+
+Maintained monitoring and alerting in Zabbix to improve visibility and incident response. 
+
+Automated configuration and operational tasks with Ansible, reducing manual effort and increasing consistency.
+
+### System Administrator								Dec 2008 - Oct 2013
+
+#### TER-Novomicurinsk (Energy Trading)
 
 Developed projects for the evolution of networks of 7 remote offices of the company by implementing new hybrid technologies Wi-Fi, VPN, WAN, LAN to increase network speed by 16 times and reduce the number of service denials.
 
 Established Network Attached Storage (NAS) using software customization and project management skills to achieve industrial reliability storage and integration with existing business applications of 9 TB of enterprise data by implementing 3 additional Geo-distributed file servers.
-
-Applied an innovative EDMS for 70 users, optimizing document workflows and reducing routine task completion time by 75%; this increased team productivity and was recognized by senior management for proactive initiative.
-
-Performed in-depth analysis to align existing infrastructure with PURDUE security models, resulting in a 83% reduction in potential security vulnerabilities.
-
-Designed, coordinated and managed the implementation of a CCTV (video surveillance) project using a private VPN connection to the Corporate Security department to install additional camera nodes.
-
-### System Administrator								Dec 2008 - Oct 2013
-
-#### TER-Novomicurinsk - Maintenance of large power plants  |  Novomichurinsk, Russia 
 
 Designed, managed and supported complex IT/OT environments including routing, switching, DNS, voice, wireless, security and load balancing platforms and technologies to ensure industrial performance and security.
 
@@ -63,23 +64,29 @@ Language Skills:   • English – Fluent,   • Czech – Intermediate   • Ru
 
 ## PROFESSIONAL DEVELOPMENT
 
-[Network Defense](https://www.credly.com/badges/27f48644-532b-4bfc-98aa-2b4140fe7bed), course from Cisco     Jul 2024
+ClickHouse Database Professional — ClickHouse (Apr 2026)
 
-Implement network monitoring and security techniques, including access control, firewalls, cloud security and cryptography. Evaluation and responding to security alerts.
+ClickHouse Data Warehousing Professional — ClickHouse (Apr 2026)
 
-Implemented robust security measures to protect networks against various cyber threats, reducing security incidents by 13% and minimizing downtime in the event of an exploit.
+chDB Professional — ClickHouse (Apr 2026)
 
-[Endpoint Security](https://www.credly.com/badges/7177ed6a-04f3-4289-84e1-751e9706ebe5), course from Cisco     Jul 2024
+ClickHouse Observability Professional — ClickHouse (Apr 2026) 
 
-Application of concepts of network security, as well as operating systems and endpoint security.
+Advanced Kubernetes Operators — IBM (Apr 2025) 
 
-Utilized advanced security analysis techniques to assess and improve the company’s endpoint security measures, resulting in a 17% reduction in security vulnerabilities.
+Containers & Kubernetes Essentials — IBM (Sep 2024) 
 
-[Networking Basics](https://www.credly.com/badges/aae671f4-7c42-4a0d-8ed1-c971a470b7f5), course from Cisco     Jul 2024
+Simplifying Data Pipelines with Apache Kafka — IBM (Dec 2024) 
 
-The foundation of networking applications and protocols, configuration, connection network devices, media, and protocols.
+Python Essentials 2 — Cisco (Mar 2025) 
 
-Configured VLANs, switches, routers, and firewalls to enhance network security and optimize data flow, resulting in reduced network downtime by 16%.
+Python for Data Science — IBM (Feb 2025) 
+
+AWS Knowledge: Architecting — Amazon Web Services (Aug 2024) 
+
+AWS Knowledge: Cloud Essentials — Amazon Web Services (Jul 2024)
+
+Full certificate list: [Credly](https://www.credly.com/users/sergei-kozlov) | [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/) | [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
 
 ## CERTIFICATIONS
 
@@ -114,5 +121,5 @@ Given the time difference, please let me know the time of your call
 - [https://github.com/SergeyKozlov](https://github.com/SergeyKozlov)
 - [https://gitlab.com/SergeyKozlov](https://gitlab.com/SergeyKozlov)
 
-### [Examples of my programming skills](/examples/)
+
 ### [Collaboration](/collaboration/)
