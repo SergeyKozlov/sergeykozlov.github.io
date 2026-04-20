@@ -62,7 +62,7 @@ Language Skills:   • English – Fluent,   • Czech – Intermediate   • Ru
 ## SOFT SKILLS
 • Project management  • Problem-solving  • Communication  • Risk management  • Teamwork  • Determination  •  Mentoring
 
-## PROFESSIONAL DEVELOPMENT
+## SELECTED CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
 ClickHouse Database Professional — ClickHouse (Apr 2026)
 
@@ -86,7 +86,7 @@ AWS Knowledge: Architecting — Amazon Web Services (Aug 2024)
 
 AWS Knowledge: Cloud Essentials — Amazon Web Services (Jul 2024)
 
-[Full certificate list](/certifications/) .|. [Credly](https://www.credly.com/users/sergei-kozlov) .|. [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/) .|. [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
+### [Full certificate list](/certifications/)  [Credly](https://www.credly.com/users/sergei-kozlov)  [LinkedIn](https://www.linkedin.com/in/sergeykozlovru/details/certifications/)  [Microsoft](https://learn.microsoft.com/en-us/users/sergeykozlov/)
 
 ## CERTIFICATIONS
 
