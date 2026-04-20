@@ -1,9 +1,31 @@
 ## SUMMARY
 
-Certified and industrial Network Administrator with 15 years of experience managing the IT environment of a large energy company using servers and complex cloud technologies, increases company productivity by implementing 6+ enterprise services for hundreds of users. Skilled in project management, firewalls, hardware, and extensive experience across the entire IT project life cycle, implemented over 6 initiatives, resulting in a 16x improvements in network performance. 
+Certified and industrial DevOps / Data Engineer with 16 years of experience in banking and energy environments. Strong background in Kafka, Apache Flink, ClickHouse, Kubernetes, CI/CD, and observability. Hands-on experience running high-load streaming systems, supporting real-time data pipelines, and keeping production platforms stable, scalable, and reliable.. 
 
 ## PROFESSIONAL EXPERIENCE
-### System Administrator								10/2013-present
+
+### Lead DevOps Engineer / Big Data Engineer								Dec 2024 – Present
+#### Sberbank
+
+Operate large-scale real-time data infrastructure in a banking environment with a strong focus on reliability, scalability, and observability.
+    • Work with Kafka, ZooKeeper, Apache Flink, and ClickHouse as part of a high-throughput production data platform. 
+    • Support streaming pipelines processing more than 8 million events per second for fraud analytics and related data workloads. 
+    • Run and support a high-availability ClickHouse cluster of 150 servers and 5 PB, integrated with the wider streaming platform. 
+    • Build and maintain CI/CD pipelines with Jenkins, Groovy, Git, and Ansible for release delivery and operational changes. 
+    • Use Prometheus, Grafana, and ELK to monitor cluster health, troubleshoot issues, and improve visibility across the platform. 
+    • Automate operational tasks with Python and Shell, reducing manual work and improving response time. 
+    • Administer a large OpenShift environment across two data centers, improving deployment workflows and platform visibility.
+
+    • Operate large-scale real-time data infrastructure in a banking environment with a strong focus on reliability, scalability, and observability. 
+    • Work with Kafka, ZooKeeper, Apache Flink, and ClickHouse as part of a high-throughput production data platform. 
+    • Support streaming pipelines processing more than 8 million events per second for fraud analytics and related data workloads. 
+    • Run and support a high-availability ClickHouse cluster of 150 servers and 5 PB, integrated with the wider streaming platform. 
+    • Build and maintain CI/CD pipelines with Jenkins, Groovy, Git, and Ansible for release delivery and operational changes. 
+    • Use Prometheus, Grafana, and ELK to monitor cluster health, troubleshoot issues, and improve visibility across the platform. 
+    • Automate operational tasks with Python and Shell, reducing manual work and improving response time. 
+    • Administer a large OpenShift environment across two data centers, improving deployment workflows and platform visibility.
+
+### System Administrator								Oct 2013 - Dec 2024
 
 #### GEH TER LLC (branch) - Maintenance of large power plants  |  Novomichurinsk, Russia 
 
